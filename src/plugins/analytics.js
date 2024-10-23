@@ -6,7 +6,7 @@ export default {
         }
       }
   
-      // Initialize Google Analytics
+      // Initialize Google Analytics sasasa
       if (window.gtag) {
         window.gtag('config', 'G-GDPDFNRJMQ');
       }
